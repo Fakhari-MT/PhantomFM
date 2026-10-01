@@ -275,12 +275,6 @@ The technical development history, design decisions, experiments, and limitation
 
 ---
 
-## ✦ License
-
-[License information]
-
----
-
 ## PhantomFM
 
 > **An attempt to make a machine-generated broadcast feel a little less machine-made.**
