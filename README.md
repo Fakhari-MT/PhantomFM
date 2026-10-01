@@ -1,5 +1,13 @@
 # **PhantomFM v1.0 — DeadAir-ODC**
 
+<p align="center">
+  <img
+    src="assets/poster.png"
+    alt="PhantomFM v1.0 — DeadAir-ODC"
+    width="900"
+  >
+</p>
+
 > **A research prototype for generating continuous and interactive audio experiences, similar to radio, using natural language processing, text generation, speech synthesis, audio buffering, and human-centered interaction design.**
 
 <!-- Add your project poster here after uploading it to the repository, for example:
