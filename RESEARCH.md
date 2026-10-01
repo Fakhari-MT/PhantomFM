@@ -94,7 +94,7 @@ For more rigorous evaluation, future versions will require a **user study** and 
 
 ## 12. Future Direction
 
-### PhantomFM v2.0 — 4THW411
+### PhantomFM v2.0 — 4THW411 
 
 The next version will focus on **natural interaction**. Primary goals include:
 
